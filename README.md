@@ -1,5 +1,5 @@
 # React + Vite
--npm create vite@latest
--run npm install to add node modules
--npm run dev
+download as zip file,extract and within the folder:
+-run npm install  to add node modules folder
+-npm run dev to start local host
 
