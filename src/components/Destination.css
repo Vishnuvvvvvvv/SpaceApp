@@ -1,0 +1,31 @@
+.destination-single-content{
+    display: flex;
+    padding-right: 26px;
+    font-family: cursive;
+    font-size: 1.1rem;
+   
+
+}
+.AddToCartBtn{
+    background-color:rgba(0, 0,0, 0.6) ;
+    background-color: rgb(219 218 218 / 25%);
+    padding: 5px 9px;
+    font-size: 13px;
+    border-radius: 8px;
+    border: 2px solid white;
+    margin-top: 19px;
+    color: white;
+    font-family: cursive;
+}
+
+.img_destination{
+margin-right: 21px;
+border-radius: 13px;
+}
+
+.dstn_heading{
+    color: white;
+    font-family: ui-monospace;
+    padding: bottom;
+    padding-bottom: 5px;
+}

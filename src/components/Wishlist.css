@@ -1,0 +1,52 @@
+.WishList{
+    height: 200vh;
+    background-color: black;
+    text-align: center;
+}
+
+.display-wishlet{
+    width: 60%;
+    margin: 40px auto;
+    min-height: 72vh;
+    border: 2px solid #666363;
+    list-style: none;
+    border-radius: 18px;
+    padding: 7px 69px;
+}
+.SingleWishlistedPlace{
+    /* border: 2px solid black;
+    border-radius: 12px;
+    margin-left: 7px;
+    margin-top: 7px; */
+    border: 2px solid #ffc6c6;
+    border-radius: 12px;
+    /* margin-left: 7px; */
+    min-height: 15%;
+    text-align: center;
+    list-style: none;
+    margin-top: 12px;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    font-family: monospace;
+
+}
+.ItirenaryBtn{
+    padding: 12px;
+    border-radius: 12px;
+    background-color: #413939;
+    border: 1px solid white;
+    color: white;
+    font-family: monospace;
+}
+
+.WishlistedPalcesHeading{
+    width: 60%;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    font-size: 34px;
+    border: 1px solid white;
+    border-radius: 6px
+}

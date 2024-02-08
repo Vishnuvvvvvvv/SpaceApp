@@ -1,0 +1,71 @@
+.single-itirenary-content{
+    background-color: rgb(113 106 106 / 50%);
+    margin-bottom: 13px;
+    border-radius: 14px;
+    padding-left: 12px;
+    padding-bottom: 12px;
+}
+.itirenary-main-page{
+height: 300vh;
+width: 100%;
+background-color: black;
+color: white;
+}
+.single-itirenary{
+   
+    width: 80%;
+    margin:0 auto;
+}
+.single-itirenary-heading{
+    border: 2px solid white;
+    background-color: rgb(113 106 106 / 50%);
+    margin-bottom: 13px;
+    border-radius: 14px;
+    text-align: center;
+    
+}
+
+.iterinary-main-heading{
+margin: 0 auto;
+    width: 80%;
+    background-color: rgb(113 106 106 / 50%);
+    font-family: cursive;
+    font-size: 55px;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 12px;
+}
+.starting-day-number{
+width: 76px;
+border: 2px solid #7a7a7a;
+border-radius: 4px;
+text-align: center;
+margin-bottom: 14px;}
+
+.start-day-from{
+border: 1px solid;
+    width: 78%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 12px;
+    padding: 12px;
+    background-color: #1a1a1a;
+}
+.arrival-day-numbe{
+    border: 1px solid  #7a7a7a;
+    width: 78%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 12px;
+    padding: 12px;
+    background-color: #1a1a1a;
+
+}
+.arrival-at{
+border: 1px solid;
+    width: 78%;
+    margin: 4px auto;
+    text-align: center;
+    border-radius: 12px;
+    padding: 12px;
+}
