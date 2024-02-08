@@ -7,14 +7,7 @@ import HomePage from './components/HomePage';
 
 
 
-import mercury from "./assets/mercury.png"
-import venus from "./assets/venus.png"
-import mars from "./assets/mars.png"
-import moon from "./assets/moon.png"
-import neptune from "./assets/neptune.png"
-import saturn from "./assets/saturn.png"
-import uranus from "./assets/uranus.png"
-import jupiter from "./assets/jupiter.png"
+
 
 import Wishlist from './components/Wishlist';
 import SinglePlanet from './components/SinglePlanet';
