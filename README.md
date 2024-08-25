@@ -1,5 +1,7 @@
 # React + Vite
-download as zip file,extract and within the folder:
--run npm install  to add node modules folder
--npm run dev to start local host
+
+1: clone the project
+2: cd SpaceApp
+3: npm install  { to install node modules}
+4: npm run dev   
 
