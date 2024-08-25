@@ -1,4 +1,4 @@
-# React + Vite
+
 
 1: clone the project
 
