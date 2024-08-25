@@ -178,16 +178,18 @@ const distancesToSunInKilometers = {
     <Navbar/>
     <h2 className='WishlistedPalcesHeading'>Wishlisted Places</h2>
    <div className="display-wishlet">
+
+    
           { singleWishlist && singleWishlist}
 
                 {/* <button>Build Itirenary</button> */}
 
           </div>  
 
-          
+        {planetsWithTopPlacesToVisit.length > 1 &&  
          <Link to="/itirenary"> <button className="ItirenaryBtn"onClick={()=>{toggleDetails(),buildItinerary()}}>Build Itinerary</button> </Link>
-        {console.log( "Array: ", distanceAndTimeArray)}
-          
+       // {console.log( "Array: ", distanceAndTimeArray)}
+        }
           
           {/* <Iterinary planetsWithTopPlacesToVisit={planetsWithTopPlacesToVisit} distanceAndTimeArray={distanceAndTimeArray} setDistanceTimeArray={setDistanceTimeArray}/> */}
    
